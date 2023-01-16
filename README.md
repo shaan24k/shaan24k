@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Resume Builder](https://cvlay.com)
 
-- 🌱 I’m currently learning **ML, Realtime Database mechanism, Apache Kafka**
+- 🌱 I’m currently learning **ML, Realtime Database mechanism, Apache Kafka, Edge Computing**
 
 - 📫 How to reach me **shahnawaz24k@gmail.com**
 
