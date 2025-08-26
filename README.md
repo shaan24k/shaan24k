@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Ansari</h1>
-<h3 align="center">Software Developer with over 6 years of experience in several Web technologies and frameworks with server-level configuration.</h3>
+<h3 align="center">Software Developer with over 9 years of experience in several Web & App technologies and frameworks with server-level configuration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaan24k&label=Profile%20views&color=0e75b6&style=flat" alt="shaan24k" /> </p>
 
